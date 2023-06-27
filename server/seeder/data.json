@@ -1,0 +1,32 @@
+{
+    "departments": [
+        {
+            "departmentCode": 1,
+            "department": "IT"
+        },
+        {
+            "departmentCode": 2,
+            "department": "CSE"
+        },
+        {
+            "departmentCode": 3,
+            "department": "Mech"
+        },
+        {
+            "departmentCode": 4,
+            "department": "Civil"
+        },
+        {
+            "departmentCode": 5,
+            "department": "ECE"
+        }
+    ],
+    "admins": [
+        {
+            "name": "admin",
+            "email": "admin@admin.com",
+            "username": "admin",
+            "password": "1admin2"
+        }
+    ]
+}
